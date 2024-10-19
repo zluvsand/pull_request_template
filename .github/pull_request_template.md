@@ -1,7 +1,7 @@
 # 🚀 Pull Request Template 
 ## 📄 Description
 <!-------------- INSTRUCTIONS --------------
-Briefly describe the changes proposed in this pull request. Include the motivation behind these changes and any relevant context that will help reviewers understand the purpose and impact of your contributions.
+Briefly describe the changes proposed in this pull request. Include context behind these changes that will help reviewers understand the purpose and impact of the changes.
 ------------------------------------------->
 This PR will introduce the following:
 * 🍉 major changes:
@@ -28,19 +28,8 @@ Mark all checkboxes that apply with an `x`
 - [ ] 🔐 Security fix
 - [ ] 🔍 Other (Please describe)
 
-## 🧪 Testing documentation
-<!-------------- INSTRUCTIONS --------------
-Include documentation for all tests conducted related to the changes in this pull request. Outline the testing methods used, test cases covered, and any results or findings that are relevant.
-------------------------------------------->
-
 ## ✅ Checklist
-- [ ] I have read the [contributing guidelines](link-to-guidelines)
 - [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my code
-- [ ] I have added necessary tests
-- [ ] All new and existing tests passed
-
-## 💬 Notes
-<!-------------- INSTRUCTIONS --------------
-Include any other information or context that might be helpful for reviewers.
-------------------------------------------->
+- [ ] I have updated documentation (e.g. README.md, comments in code)
+- [ ] I have reviewed my code changes
+- [ ] I have tested my code changes and added necessary tests
